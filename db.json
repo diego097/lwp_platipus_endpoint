@@ -1,107 +1,105 @@
-﻿{
-    "HTML5GAMES": [{
-            "TITLE": "1001 Spins",
-            "GAME ID": "546",
-            "LAUNCH ID": "thousandonespins",
-            "RTP": "95.00%",
-            "TOTAL BET": "25",
-            "PAYLINES": "50"
-        },
-        {
-            "TITLE": "7 & Hot Fruits",
-            "GAME ID": "545",
-            "LAUNCH ID": "hotfruits ",
-            "RTP": "95.00%",
-            "TOTAL BET": "5",
-            "PAYLINES": "5"
-        },
-        {
-            "TITLE": "Arabian Tales",
-            "GAME ID": "417",
-            "LAUNCH ID": "arabiantales",
-            "RTP": "95.03%",
-            "TOTAL BET": "50",
-            "PAYLINES": "50"
-        },
-        {
-            "TITLE": "Aztec Coins",
-            "GAME ID": "529",
-            "LAUNCH ID": "azteccoins",
-            "RTP": "95%",
-            "TOTAL BET": "50",
-            "PAYLINES": "50"
-        },
-        {
-            "TITLE": "Aztec Temple    ",
-            "GAME ID": "448",
-            "LAUNCH ID": "aztectemple ",
-            "RTP": "94.97%",
-            "TOTAL BET": "20",
-            "PAYLINES": "20"
-        },
-        {
-            "TITLE": "Bison Trail",
-            "GAME ID": "491",
-            "LAUNCH ID": "bisontrail",
-            "RTP": "94.99%",
-            "TOTAL BET": "40",
-            "WAYS": "1024"
-        },
-        {
-            "TITLE": "Book of Egypt",
-            "GAME ID": "465",
-            "LAUNCH ID": "bookofegypt",
-            "RTP": "94.98%",
-            "TOTAL BET": "10",
-            "PAYLINES": "10"
-        },
-        {
-            "TITLE": "Caishen's Gifts ",
-            "GAME ID": "534",
-            "LAUNCH ID": "caishensgifts",
-            "RTP": "95.03%",
-            "TOTAL BET": "25",
-            "WAYS": "243"
-        },
-        {
-            "TITLE": "Chilli Fiesta ",
-            "GAME ID": "539",
-            "LAUNCH ID": "chillifiesta",
-            "RTP": "95.00%",
-            "TOTAL BET": "40",
-            "PAYLINES": "40"
-        },
-        {
-            "TITLE": "Chinese Tigers ",
-            "GAME ID": "530",
-            "LAUNCH ID": "chinesetigers",
-            "RTP": "95%",
-            "TOTAL BET": "30",
-            "PAYLINES": "30"
-        },
-        {
-            "TITLE": "Cinderella     ",
-            "GAME ID": "477",
-            "LAUNCH ID": "cinderella",
-            "RTP": "95%",
-            "TOTAL BET": "40",
-            "PAYLINES": "40"
-        },
-        {
-            "TITLE": "Cleo's Gold",
-            "GAME ID": "386",
-            "LAUNCH ID": "cleosgold",
-            "RTP": "94.99%",
-            "TOTAL BET": "20",
-            "PAYLINES": "20"
-        },
-        {
-            "TITLE": "Crazy Jelly",
-            "GAME ID": "443",
-            "LAUNCH ID": "crazyjelly",
-            "RTP": "95%",
-            "TOTAL BET": "10",
-            "PAYLINES": "10"
-        }
-    ]
-}
+﻿[{
+        "TITLE": "1001 Spins",
+        "GAME ID": "546",
+        "LAUNCH ID": "thousandonespins",
+        "RTP": "95.00%",
+        "TOTAL BET": "25",
+        "PAYLINES": "50"
+    },
+    {
+        "TITLE": "7 & Hot Fruits",
+        "GAME ID": "545",
+        "LAUNCH ID": "hotfruits ",
+        "RTP": "95.00%",
+        "TOTAL BET": "5",
+        "PAYLINES": "5"
+    },
+    {
+        "TITLE": "Arabian Tales",
+        "GAME ID": "417",
+        "LAUNCH ID": "arabiantales",
+        "RTP": "95.03%",
+        "TOTAL BET": "50",
+        "PAYLINES": "50"
+    },
+    {
+        "TITLE": "Aztec Coins",
+        "GAME ID": "529",
+        "LAUNCH ID": "azteccoins",
+        "RTP": "95%",
+        "TOTAL BET": "50",
+        "PAYLINES": "50"
+    },
+    {
+        "TITLE": "Aztec Temple    ",
+        "GAME ID": "448",
+        "LAUNCH ID": "aztectemple ",
+        "RTP": "94.97%",
+        "TOTAL BET": "20",
+        "PAYLINES": "20"
+    },
+    {
+        "TITLE": "Bison Trail",
+        "GAME ID": "491",
+        "LAUNCH ID": "bisontrail",
+        "RTP": "94.99%",
+        "TOTAL BET": "40",
+        "WAYS": "1024"
+    },
+    {
+        "TITLE": "Book of Egypt",
+        "GAME ID": "465",
+        "LAUNCH ID": "bookofegypt",
+        "RTP": "94.98%",
+        "TOTAL BET": "10",
+        "PAYLINES": "10"
+    },
+    {
+        "TITLE": "Caishen's Gifts ",
+        "GAME ID": "534",
+        "LAUNCH ID": "caishensgifts",
+        "RTP": "95.03%",
+        "TOTAL BET": "25",
+        "WAYS": "243"
+    },
+    {
+        "TITLE": "Chilli Fiesta ",
+        "GAME ID": "539",
+        "LAUNCH ID": "chillifiesta",
+        "RTP": "95.00%",
+        "TOTAL BET": "40",
+        "PAYLINES": "40"
+    },
+    {
+        "TITLE": "Chinese Tigers ",
+        "GAME ID": "530",
+        "LAUNCH ID": "chinesetigers",
+        "RTP": "95%",
+        "TOTAL BET": "30",
+        "PAYLINES": "30"
+    },
+    {
+        "TITLE": "Cinderella     ",
+        "GAME ID": "477",
+        "LAUNCH ID": "cinderella",
+        "RTP": "95%",
+        "TOTAL BET": "40",
+        "PAYLINES": "40"
+    },
+    {
+        "TITLE": "Cleo's Gold",
+        "GAME ID": "386",
+        "LAUNCH ID": "cleosgold",
+        "RTP": "94.99%",
+        "TOTAL BET": "20",
+        "PAYLINES": "20"
+    },
+    {
+        "TITLE": "Crazy Jelly",
+        "GAME ID": "443",
+        "LAUNCH ID": "crazyjelly",
+        "RTP": "95%",
+        "TOTAL BET": "10",
+        "PAYLINES": "10"
+    }
+]
